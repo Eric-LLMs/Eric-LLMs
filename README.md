@@ -2,7 +2,7 @@
 
 # Hi, I'm Eric 👋
 
-### Senior ML Engineer (10+ YOE) | BS Math, MS NLP
+### Senior ML Engineer (10+ YOE) | BS Math, MS NLP (3-year Research @ PKU)  
 
 **LLM Engineering • Agents • RAG • Production ML Systems**
 
