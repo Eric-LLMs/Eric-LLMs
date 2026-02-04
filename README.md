@@ -6,6 +6,6 @@
 
 **LLM Engineering • Agents • RAG • Production ML Systems**
 
-<br> *From Statistical NLP → Deep Learning → LLMs & Agentic Systems*
+*From Statistical NLP → Deep Learning → LLMs & Agentic Systems*
 
 </div>
